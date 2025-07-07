@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#F8F8F8">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="16dp">
+
+        <!-- Flowchart Title -->
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Present++ App Flowchart"
+            android:textSize="24sp"
+            android:textStyle="bold"
+            android:textColor="#222222"
+            android:layout_gravity="center"
+            android:paddingBottom="16dp"/>
+
+        <!-- Start -->
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="START\n  │\n  ▼"
+            android:textSize="16sp"
+            android:paddingBottom="8dp"/>
+
+        <!-- Home Screen -->
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Home Screen (3 Buttons):\n  ├─▶ Admin Login\n  ├─▶ Teacher Login (includes HOD)\n  └─▶ Student Login"
+            android:textSize="16sp"
+            android:paddingBottom="12dp"/>
+
+        <!-- Admin Login Flow -->
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Admin Login:\n  └─▶ Admin Login Screen\n      └─▶ Admin Portal\n          ├─ View Dept Records\n          ├─ Academic Calendar\n          ├─ Notifications\n          └─ Recent Activities"
+            android:textSize="16sp"
+            android:paddingBottom="12dp"/>
+
+        <!-- Teacher Login Flow -->
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Teacher Login (includes HOD):\n  └─▶ Teacher Login Screen (Username, Password, Department)\n      └─▶ Dashboard (role-based)\n          ├─ Department: Computer Science (etc)\n          ├─ Time Table\n          ├─ Notification\n          ├─ Attendance\n          ├─ Classroom\n          ├─ MANAGE STUDENTS\n          ├─ ATTENDANCE RECORD\n          ├─ LEAVE MANAGEMENT (for HOD only)\n          └─ Other HOD-specific features (if HOD)"
+            android:textSize="16sp"
+            android:paddingBottom="12dp"/>
+
+        <!-- Student Login Flow -->
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Student Login:\n  └─▶ Student Login Screen\n      └─▶ Student Portal\n          ├─ Quick Actions:\n          │   ├─ Time Table\n          │   ├─ Attendance\n          │   └─ Academic Calendar\n          ├─ Classroom\n          └─ Services:\n              ├─ Leave Management\n              └─ Announcements"
+            android:textSize="16sp"
+            android:paddingBottom="12dp"/>
+
+        <!-- End -->
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="END"
+            android:textSize="16sp"
+            android:layout_marginTop="16dp"
+            android:layout_gravity="center_horizontal"/>
+
+    </LinearLayout>
+</ScrollView>

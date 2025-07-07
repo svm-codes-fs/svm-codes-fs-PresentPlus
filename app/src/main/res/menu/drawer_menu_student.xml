@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- 🏠 Main -->
+    <item
+        android:id="@+id/nav_home"
+        android:title="Home"
+        android:icon="@drawable/ic_home_24" />
+    <item
+        android:id="@+id/nav_profile"
+        android:title="Profile"
+        android:icon="@drawable/ic_person_24" />
+    <item
+        android:id="@+id/nav_edit_profile"
+        android:title="Edit Profile"
+        android:icon="@drawable/ic_edit_24" />
+
+
+    <!-- ⚙️ App -->
+    <item
+        android:id="@+id/nav_settings"
+        android:title="App Settings"
+        android:icon="@drawable/ic_settings_24" />
+    <item
+        android:id="@+id/nav_change_password"
+        android:title="Change Password"
+        android:icon="@drawable/ic_lock_24" />
+
+    <!-- ℹ️ Info -->
+    <item
+        android:id="@+id/nav_privacy"
+        android:title="Privacy Policy"
+        android:icon="@drawable/ic_security_24" />
+    <item
+        android:id="@+id/nav_terms"
+        android:title="Terms &amp; Conditions"
+        android:icon="@drawable/ic_description_24" />
+    <item
+        android:id="@+id/nav_about"
+        android:title="About App"
+        android:icon="@drawable/ic_info_24" />
+
+    <!-- 🔒 Logout -->
+    <item
+        android:id="@+id/nav_logout"
+        android:title="Logout"
+        android:icon="@drawable/ic_logout_24" />
+
+</menu>

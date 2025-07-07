@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp"
+    android:background="#F0F8FF">
+
+    <!-- Title Text -->
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="View Timetable"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        android:textColor="#000000"
+        android:layout_marginBottom="20dp"
+        android:gravity="center"/>
+
+    <!-- ImageView to display the timetable -->
+
+    <!-- Button to trigger image loading (optional) -->
+
+    <ImageView
+        android:id="@+id/timetableImageView"
+        android:layout_width="match_parent"
+        android:layout_height="286dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginBottom="20dp"
+        android:contentDescription="Timetable Image"
+        android:src="@drawable/timetableco" />
+
+    <Button
+        android:id="@+id/loadTimetableButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Load Timetable"
+        android:textColor="#FFFFFF"
+        android:backgroundTint="#00796B"
+        android:visibility="gone"/>
+
+</LinearLayout>

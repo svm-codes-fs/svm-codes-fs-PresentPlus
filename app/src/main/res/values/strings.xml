@@ -1,0 +1,85 @@
+<resources>
+    <string name="app_name">Present +</string>
+    <string-array name="departments_array">
+        <item>Computer Science</item>
+        <item>Electronics</item>
+        <item>Mechanical</item>
+        <item>Civil</item>
+        <item>Electrical</item>
+        <item>Mining</item>
+    </string-array>
+    <string-array name="subject_list">
+        <item>MGT</item>
+        <item>PYTHON</item>
+        <item>MAD</item>
+        <item>WBP</item>
+        <item>ETI</item>
+    </string-array>
+    <string name="logging_in">Logging in...</string>
+    <string name="username_required">Username is required</string>
+    <string name="password_required">Password is required</string>
+    <string name="special_code_required">Special Code is required</string>
+    <string name="invalid_special_code">Invalid Special Code</string>
+    <string name="connection_failed">Connection failed. Check server.</string>
+    <string name="server_error">Server error: %1$d</string>
+    <string name="empty_server_response">Server response is empty</string>
+    <string name="unknown_error">Unknown error occurred</string>
+    <string name="login_success">Login Successful!</string>
+    <string name="invalid_json_format">Invalid JSON Format: %1$s</string>
+
+
+    <string name="app_logo">School Logo</string>
+    <string name="student_portal">Student Portal</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="roll_number">Roll Number</string>
+    <string name="department">Department</string>
+    <string name="academic_year">Academic Year</string>
+    <string name="year_1">1st Year</string>
+    <string name="year_2">2nd Year</string>
+    <string name="year_3">3rd Year</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+
+    <string name="student_registration" />
+
+    <string name="error_username_required">Username is required</string>
+    <string name="error_password_required">Password is required</string>
+    <string name="error_password_length">Password must be at least 6 characters</string>
+    <string name="error_rollno_required">Roll number is required</string>
+    <string name="error_department_required">Please select a department</string>
+    <string name="error_year_required">Please select your academic year</string>
+    <string name="switch_to_login">Already have an account? Login</string>
+    <string name="switch_to_register">Don\'t have an account? Register</string>
+    <string name="title_activity_cofirst_year_dashboard">COFirstYearDashboard</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="title_activity_cosecond_year_dashboard">CosecondYearDashboardActivity</string>
+    <string name="title_activity_cothird_year_dashboard2">CothirdYearDashboardActivity2</string>
+    <string name="title_activity_cothird_year_dashboard">COThirdYearDashboard</string>
+    <string name="title_activity_ejfirst_year_dashboard">EJFirstYearDashboard</string>
+    <string name="title_activity_ejsecond_year_dashboard">EJSecondYearDashboard</string>
+    <string name="title_activity_ejthird_year_dashboard">EJThirdYearDashboard</string>
+    <string name="title_activity_cefirst_year_dashboard">CEFirstYearDashboard</string>
+    <string name="title_activity_mefirst_year_dashboard">MEFirstYearDashboard</string>
+    <string name="title_activity_msfirst_year_dashboard">MSFirstYearDashboard</string>
+    <string name="title_activity_eefirst_year_dashboard">EEFirstYearDashboard</string>
+    <string name="title_activity_cesecond_year_dashboard">CESecondYearDashboard</string>
+    <string name="title_activity_cethird_year_dashboard">CEThirdYearDashboard</string>
+    <string name="title_activity_mssecond_year_dashboard">MSSecondYearDashboard</string>
+    <string name="title_activity_msthird_year_dashboard">MSThirdYearDashboard</string>
+    <string name="title_activity_eesecond_year_dashboard">EESecondYearDashboard</string>
+    <string name="title_activity_eethird_year_dashboard">EEThirdYearDashboard</string>
+    <string name="title_activity_mesecond_year_dashboard">MESecondYearDashboard</string>
+    <string name="title_activity_methird_year_dashboard">METhirdYearDashboard</string>
+
+
+</resources>

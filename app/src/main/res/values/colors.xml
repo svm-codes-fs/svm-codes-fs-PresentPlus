@@ -1,0 +1,93 @@
+<resources>
+    <!-- Primary Color Palette -->
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#1565C0</color>
+    <color name="colorPrimaryLight">#C5CAE9</color>
+    <!-- Semi-transparent whites for glass effect -->
+
+    <color name="white_80">#CCFFFFFF</color>  <!-- 80% opacity -->
+    <color name="white_50">#80FFFFFF</color>  <!-- 50% opacity -->
+    <color name="white_10">#1AFFFFFF</color> <!-- 10% opacity -->
+    <!-- Enhanced visibility colors -->
+
+    <color name="white_70">#B3FFFFFF</color>  <!-- 70% opacity -->
+    <!-- 50% opacity -->
+    <color name="white_20">#33FFFFFF</color>  <!-- 20% opacity -->
+
+    <!-- Button color -->
+
+    <!-- Button color that matches gradient -->
+    <color name="button_blue">#4285F4</color>  <!-- Google blue tone that works with gradients -->
+    <!-- Gradient-compatible colors -->
+    <!-- 10% opacity -->
+
+    <!-- Button color that matches gradient perfectly -->
+    <color name="button_blue_gradient">#4285F4</color>  <!-- Google blue that complements most gradients -->
+
+    <!-- If you need to adjust based on your specific gradient:
+    <color name="button_blue_gradient">#YourGradientAccentColor</color>
+    -->
+    <!-- Secondary Color Palette -->
+    <color name="colorSecondary">#4CAF50</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <!-- Neutral Colors -->
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="lightGray">#F5F5F5</color>
+    <color name="gray">#757575</color>
+    <color name="darkGray">#424242</color>
+
+    <!-- Text Colors -->
+    <color name="textPrimary">#212121</color>
+    <color name="textSecondary">#757575</color>
+    <color name="textHint">#BDBDBD</color>
+
+    <!-- Utility Colors -->
+    <color name="dividerColor">#EEEEEE</color>
+    <color name="errorColor">#D32F2F</color>
+    <color name="successColor">#4CAF50</color>
+
+    <!-- Additional Colors (if needed) -->
+    <color name="neonBlue">#00E5FF</color>
+    <color name="neonGreen">#00FF00</color>
+
+    <color name="neon_blue">#00E5FF</color>
+    <color name="neon_green">#00FF00</color>
+    <color name="light_gray">#F5F5F5</color>
+    <color name="primary_color">#6200EE</color>
+    <color name="red">#D32F2F</color>
+    <color name="gray_dark">#424242</color>  <!-- A dark gray color -->
+    <color name="teal_700">#018786</color>
+    <color name="purple_500">#6200EE</color>
+    <color name="background_light">#F5F5F5</color>
+    <color name="text_primary">#212121</color>
+    <color name="colorPrimary1">#3F51B5</color>  <!-- Indigo color -->
+    <color name="purple">#9000be</color>  <!-- Your custom purple -->
+    <color name="primary">#6200EE</color>
+    <color name="primaryVariant">#3700B3</color>
+    <color name="secondary">#03DAC5</color>
+    <color name="background">#FFFFFF</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="error">#B00020</color>
+    <color name="onPrimary">#FFFFFF</color>
+    <color name="onSecondary">#000000</color>
+    <color name="onBackground">#000000</color>
+    <color name="onSurface">#000000</color>
+    <color name="onError">#FFFFFF</color>
+    <color name="primary_light" />
+    <color name="green" />
+
+
+    <color name="primaryColor">#6200EE</color>
+    <color name="primaryDark">#3700B3</color>
+    <color name="primaryText">#212121</color>
+    <color name="secondaryText">#757575</color>
+    <color name="divider">#BDBDBD</color>
+
+    <color name="error_color">#F44336</color>
+
+
+
+
+</resources>

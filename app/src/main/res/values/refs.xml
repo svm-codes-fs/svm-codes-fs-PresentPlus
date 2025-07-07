@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <drawable name="ic_lock" />
+    <drawable name="ic_id_card" />
+    <drawable name="ic_department" />
+    <drawable name="ic_person" />
+</resources>

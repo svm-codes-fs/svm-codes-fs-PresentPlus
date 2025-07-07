@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "99566485587",
+    "project_id": "capstoneproject-d600b",
+    "storage_bucket": "capstoneproject-d600b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:99566485587:android:f19d025ad34181a50d86a6",
+        "android_client_info": {
+          "package_name": "com.example.capstoneproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQ8JYXZFNoniBUjHq7TGV1RvqfLsAobgk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

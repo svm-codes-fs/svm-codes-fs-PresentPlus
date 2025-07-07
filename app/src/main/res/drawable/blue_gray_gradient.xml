@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">  <!-- Explicitly declare shape type -->
+
+    <!-- Sophisticated blue-gray gradient -->
+    <gradient
+        android:type="linear"
+        android:angle="135"
+        android:startColor="#455A64"/>
+
+    <!-- Subtle rounded corners -->
+    <corners android:radius="8dp" />  <!-- Matches Material Design card corners -->
+
+    <!-- Optional: Very subtle border for depth -->
+    <stroke
+        android:width="0.5dp"
+        android:color="#33000000" />  <!-- 20% opacity black -->
+
+    <!-- Optional: Add slight padding if used in views -->
+    <padding
+        android:left="4dp"
+        android:top="4dp"
+        android:right="4dp"
+        android:bottom="4dp" />
+</shape>
